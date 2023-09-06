@@ -1,0 +1,5 @@
+print("Weight Converter")
+pounds= float (input("Enter pounds "))
+kilos= (pounds * 0.453592)
+print ("Weight in kilos is" , kilos)
+input("press Enter to close")

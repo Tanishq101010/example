@@ -1,0 +1,5 @@
+print("Band Name Generator")
+petname = input("what is the name of your pet? ")
+statename = input("what is the name of your state? ")
+print("yor band name:", statename, petname)
+input('Press ENTER to exit')
